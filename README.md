@@ -1,6 +1,6 @@
-# \# jinjin
+# \# Study of jinjin
 
-# 이진 
+# Lee Jin
 
-# > https://github.com/leejinjl26-ai/jinjin.git
+# 
 
