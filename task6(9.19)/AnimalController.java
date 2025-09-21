@@ -1,3 +1,5 @@
+굿굿
+
 package task6;
 
 import java.util.InputMismatchException;
